@@ -1,4 +1,4 @@
-# Widhya_Internship - Machine Learning Intern
+## Widhya_Internship - Machine Learning Intern
 Below are the mentioned tasks that i did during my internship
 1.) Predicting The Percentage Of Student On The Basis Of Study Hours
 2.) Performng Clustering on IRIS DATASET and Then Finding The Optimal Number Of Clusters
